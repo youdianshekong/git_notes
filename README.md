@@ -1,1 +1,1 @@
-本仓库是一个关于git的学习笔记
+本仓库是一个关于git的学习笔记，参考廖雪峰Git教程：https://www.liaoxuefeng.com/wiki/896043488029600
